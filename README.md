@@ -4,4 +4,4 @@ For my 9th grade mathematics assignment I made some plots using Tupper's Self Re
 
 
 #UPDATE
-I got a 'B' for this project, with a note form my teacher saying 'not enough was handwritten'. I doubt if she understood my project. :/
+I got a 'B' for this project, with a note from my teacher saying, 'not enough was handwritten'. I doubt if she understood my project. :/
